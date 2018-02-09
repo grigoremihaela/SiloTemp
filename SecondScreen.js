@@ -92,5 +92,10 @@ const styles = StyleSheet.create({
     flexDirection: 'column',
     alignItems: 'center',
     paddingTop: 50
-  }
+  },
+  image: {
+    width: 217,
+    height: 138,
+    alignSelf: 'center',
+  },
 });
