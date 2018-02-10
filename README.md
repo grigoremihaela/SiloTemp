@@ -1,5 +1,5 @@
-# React Native Navigation Example
-This is a simple app example of a navigation implementation with React Native for Android and iOS using [React Navigation](https://reactnavigation.org/)
+# SiloTemp
+This is a simple app example of a navigation implementation with React Native for Android and iOS using [React Navigation](https://reactnavigation.org/). The application get the temperatures from the silo.
 
 How to use
 ----------------
